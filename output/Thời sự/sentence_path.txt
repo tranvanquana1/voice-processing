@@ -1,49 +1,26 @@
 https://vnexpress.net/thoi-su/cach-ly-toan-xa-hoi-khong-phai-la-phong-toa-dat-nuoc-4077606.html
-'Cách ly toàn xã hội không phải là phong toả đất nước' Chính phủ tiếp tục khẳng định chưa tính đến phong tỏa các thành phố lớn và đề nghị người dân tự giác chấp hành "cách ly toàn xã hội"
-sentence_1.wav
- Chiều 31/3, tại cuộc họp Thường trực Chính phủ, Thủ tướng Nguyễn Xuân Phúc khẳng định, các biện pháp được nêu trong chỉ thị ban hành sáng nay mang tính "tiền khẩn cấp", là để giãn cách xã hội nhằm ngăn chặn lây lan dịch bệnh
-sentence_2.wav
- "Việc cách ly toàn xã hội mới chỉ dừng lại ở thuyết phục, vận động nhân dân tự giác chấp hành, thực hiện đầy đủ các biện pháp tự bảo vệ mình, gia đình mình", Thủ tướng nói và nhấn mạnh việc bảo đảm đầy đủ hàng hóa, lương thực, thực phẩm thiết yếu cho nhân dân
-sentence_3.wav
- Giải thích thêm nội dung trên, ông Mai Tiến Dũng - Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ, cho hay "yêu cầu cách ly toàn xã hội không phải là phong tỏa đất nước như một số quốc gia đã làm"
-sentence_4.wav
- Theo ông, chỉ thị của Thủ tướng đã nêu yêu cầu "không tụ tập trên hai người ngoài công sở, bệnh viện, trường học, nơi công cộng"
-sentence_5.wav
+wav1.wav
+'Cách ly toàn xã hội không phải là phong toả đất nước'Chính phủ tiếp tục khẳng định chưa tính đến phong tỏa các thành phố lớn và đề nghị người dân tự giác chấp hành "cách ly toàn xã hội".Chiều 31/3, tại cuộc họp Thường trực Chính phủ, Thủ tướng Nguyễn Xuân Phúc khẳng định, các biện pháp được nêu trong chỉ thị ban hành sáng nay mang tính "tiền khẩn cấp", là để giãn cách xã hội nhằm ngăn chặn lây lan dịch bệnh."Việc cách ly toàn xã hội mới chỉ dừng lại ở thuyết phục, vận động nhân dân tự giác chấp hành, thực hiện đầy đủ các biện pháp tự bảo vệ mình, gia đình mình", Thủ tướng nói và nhấn mạnh việc bảo đảm đầy đủ hàng hóa, lương thực, thực phẩm thiết yếu cho nhân dân.Giải thích thêm nội dung trên, ông Mai Tiến Dũng - Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ, cho hay "yêu cầu cách ly toàn xã hội không phải là phong tỏa đất nước như một số quốc gia đã làm".Theo ông, chỉ thị của Thủ tướng đã nêu yêu cầu "không tụ tập trên hai người ngoài công sở, bệnh viện, trường học, nơi công cộng"
+wav2.wav
 Đây là quyết định mạnh hơn so với cách đây 4 ngày khi Chính phủ yêu cầu không tụ tập trên 10 người
-sentence_6.wav
-"Điều này truyền đi thông điệp rằng mọi người dân nên ở nhà trong giai đoạn cao điểm, hạn chế đi ra ngoài, tụ tập đông người vì tình hình bây giờ đã khác 4 ngày trước", ông Dũng nói
-sentence_7.wav
- Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Mai Tiến Dũng
-sentence_8.wav
-Ảnh: VGP Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Mai Tiến Dũng
-sentence_9.wav
-Ảnh: VGP  Lãnh đạo Văn phòng Chính phủ cho hay, khi dịch bệnh diễn biến phức tạp hơn, các yêu cầu, chỉ đạo sẽ ở cấp độ cao hơn (so với chỉ thị nêu trên)
-sentence_10.wav
-"Nếu dịch vẫn tiếp tục diễn biến xấu, lây lan mạnh mẽ trong cộng đồng thì phải có sắc lệnh cao hơn và nghiêm ngặt hơn nữa", ông Dũng nói và nhấn mạnh, muốn thực hiện hiệu quả các giải pháp chống dịch phải có chuẩn bị và "đi từng bước"
-sentence_11.wav
- Hiện Chính phủ đang kiểm soát được tình hình, vì vậy, vẫn cần phải đảm bảo sinh hoạt của người dân và các hoạt động sản xuất, kinh tế xã hội
-sentence_12.wav
+wav3.wav
+"Điều này truyền đi thông điệp rằng mọi người dân nên ở nhà trong giai đoạn cao điểm, hạn chế đi ra ngoài, tụ tập đông người vì tình hình bây giờ đã khác 4 ngày trước", ông Dũng nói.Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Mai Tiến Dũng
+wav4.wav
+Ảnh: VGPBộ trưởng, Chủ nhiệm Văn phòng Chính phủ Mai Tiến Dũng
+wav5.wav
+Ảnh: VGPLãnh đạo Văn phòng Chính phủ cho hay, khi dịch bệnh diễn biến phức tạp hơn, các yêu cầu, chỉ đạo sẽ ở cấp độ cao hơn (so với chỉ thị nêu trên)
+wav6.wav
+"Nếu dịch vẫn tiếp tục diễn biến xấu, lây lan mạnh mẽ trong cộng đồng thì phải có sắc lệnh cao hơn và nghiêm ngặt hơn nữa", ông Dũng nói và nhấn mạnh, muốn thực hiện hiệu quả các giải pháp chống dịch phải có chuẩn bị và "đi từng bước".Hiện Chính phủ đang kiểm soát được tình hình, vì vậy, vẫn cần phải đảm bảo sinh hoạt của người dân và các hoạt động sản xuất, kinh tế xã hội
+wav7.wav
 "Khi kiểm soát được thì không nên đóng cửa ngay lập tức, vì có những tỉnh chưa có dịch, hoặc có nhưng địa phương đã khoanh vùng và kiểm soát được", ông giải thích
-sentence_13.wav
-  Bộ trưởng Mai Tiến Dũng cho biết, Chính phủ vẫn đồng ý cho nhà máy, phân xưởng hoạt động; nhưng yêu cầu cán bộ văn phòng, cơ quan hành chính nhà nước, doanh nghiệp ứng dụng công nghệ thông tin để làm việc tại nhà
-sentence_14.wav
-  "Những nhà máy, công xưởng có hàng chục nghìn lao động, chỉ cần lơi lỏng, không kiểm soát tốt, để xảy ra một trường hợp lây nhiễm cũng phải đóng cửa ngay lập tức, tránh lây nhiễm chéo và lây lan ra cộng đồng", ông Dũng nói
-sentence_15.wav
- Văn phòng Chính phủ đã quyết định cho một nửa cán bộ (hơn 300 người) làm việc ở nhà
-sentence_16.wav
-Những người bắt buộc đến công sở phải đảm bảo ngồi cách nhau 2 m, khi ăn mỗi người một bàn
-sentence_17.wav
- Vừa qua Chính phủ đã liên tiếp đưa ra khuyến cáo về việc không tập trung đông người, nhưng một số nơi vẫn còn tình trạng này, đơn cử hàng nghìn người tập trung tắm biển ở Nha Trang
-sentence_18.wav
+wav8.wav
+Bộ trưởng Mai Tiến Dũng cho biết, Chính phủ vẫn đồng ý cho nhà máy, phân xưởng hoạt động; nhưng yêu cầu cán bộ văn phòng, cơ quan hành chính nhà nước, doanh nghiệp ứng dụng công nghệ thông tin để làm việc tại nhà
+wav9.wav
+"Những nhà máy, công xưởng có hàng chục nghìn lao động, chỉ cần lơi lỏng, không kiểm soát tốt, để xảy ra một trường hợp lây nhiễm cũng phải đóng cửa ngay lập tức, tránh lây nhiễm chéo và lây lan ra cộng đồng", ông Dũng nói.Văn phòng Chính phủ đã quyết định cho một nửa cán bộ (hơn 300 người) làm việc ở nhà
+wav10.wav
+Những người bắt buộc đến công sở phải đảm bảo ngồi cách nhau 2 m, khi ăn mỗi người một bàn.Vừa qua Chính phủ đã liên tiếp đưa ra khuyến cáo về việc không tập trung đông người, nhưng một số nơi vẫn còn tình trạng này, đơn cử hàng nghìn người tập trung tắm biển ở Nha Trang
+wav11.wav
 "Lãnh đạo địa phương phải chịu trách nhiệm về việc này
-sentence_19.wav
-Chính phủ sẽ có nhắc nhở và chấn chỉnh ngay", ông Dũng nói
-sentence_20.wav
- Theo ông, "Chính phủ hiểu rằng với những yêu cầu nêu trên, người dân, doanh nghiệp có thể sẽ khó khăn hoặc cảm thấy không thoải mái, nhưng mong tất cả chấp hành, vì chống dịch phải có sự đồng thuận của tất cả mọi người"
-sentence_21.wav
- Sáng 31/3, Thủ tướng ban hành chỉ thị yêu cầu cách ly trên toàn quốc, không tập trung quá 2 người nơi công cộng, từ 0h ngày 1/4 và kéo dài trong 15 ngày
-sentence_22.wav
- Cách ly toàn xã hội được thực hiện theo nguyên tắc "gia đình cách ly với gia đình, thôn bản cách ly với thôn bản, xã cách ly với xã, huyện cách ly với huyện, tỉnh cách ly với tỉnh"
-sentence_23.wav
-
-sentence_24.wav
+wav12.wav
+Chính phủ sẽ có nhắc nhở và chấn chỉnh ngay", ông Dũng nói.Theo ông, "Chính phủ hiểu rằng với những yêu cầu nêu trên, người dân, doanh nghiệp có thể sẽ khó khăn hoặc cảm thấy không thoải mái, nhưng mong tất cả chấp hành, vì chống dịch phải có sự đồng thuận của tất cả mọi người".Sáng 31/3, Thủ tướng ban hành chỉ thị yêu cầu cách ly trên toàn quốc, không tập trung quá 2 người nơi công cộng, từ 0h ngày 1/4 và kéo dài trong 15 ngày.Cách ly toàn xã hội được thực hiện theo nguyên tắc "gia đình cách ly với gia đình, thôn bản cách ly với thôn bản, xã cách ly với xã, huyện cách ly với huyện, tỉnh cách ly với tỉnh"
+wav13.wav

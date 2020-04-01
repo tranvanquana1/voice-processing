@@ -1,57 +1,43 @@
 https://vnexpress.net/y-kien/toi-song-khoe-mua-dich-vi-giu-thoi-quen-tiet-kiem-4077469.html
-Tôi 'sống khỏe' mùa dịch vì giữ thói quen tiết kiệm Trong khi nhiều người có thói quen làm tới đâu, tiêu tới đó đang bối rối vì hết tiền thì tôi ở nhà thảnh thơi với khoản tiền tiết kiệm
-sentence_1.wav
- Bạn đang ở nhà chống dịch như thế nào? Làm thế nào vượt qua khó khăn để đồng lòng cùng đất nước chống dịch Covid-19
-sentence_2.wav
-Chia sẻ bài viết, video, ảnh chủ đề 'Tôi ở nhà' tại đây
-sentence_3.wav
- Chia sẻ với câu chuyện "Lao động thất nghiệp vì Covid-19 chật vật mưu sinh", độc giả Hòa bày tỏ quan điểm về tầm quan trọng của lối sống tiết kiệm:  "Giờ mới thấy bài học tiết kiệm là đáng giá
-sentence_4.wav
+wav1.wav
+Tôi 'sống khỏe' mùa dịch vì giữ thói quen tiết kiệmTrong khi nhiều người có thói quen làm tới đâu, tiêu tới đó đang bối rối vì hết tiền thì tôi ở nhà thảnh thơi với khoản tiền tiết kiệm.Bạn đang ở nhà chống dịch như thế nào? Làm thế nào vượt qua khó khăn để đồng lòng cùng đất nước chống dịch Covid-19
+wav2.wav
+Chia sẻ bài viết, video, ảnh chủ đề 'Tôi ở nhà' tại đây.Chia sẻ với câu chuyện "Lao động thất nghiệp vì Covid-19 chật vật mưu sinh", độc giả Hòa bày tỏ quan điểm về tầm quan trọng của lối sống tiết kiệm:"Giờ mới thấy bài học tiết kiệm là đáng giá
+wav3.wav
 Trước đây, tôi hay bị hội bạn chọc ghẹo vì thói quen để dành tiền
-sentence_5.wav
+wav4.wav
 Tôi không keo kiệt, nhưng chỉ xài theo nhu cầu vừa đủ, cuối tháng dư được bao nhiêu là tôi gửi tiết kiệm, vài đồng cũng gửi
-sentence_6.wav
+wav5.wav
 Trong khi các bạn đi du lịch, mua đồ hiệu, lên quán bar..
-sentence_7.wav
+wav6.wav
 thì tôi chỉ cần ăn no, ăn ngon, mua quần áo giảm giá và không tự bỏ tiền đi du lịch
-sentence_8.wav
-Công ty cho đi đâu thì đi đó
-sentence_9.wav
- Với thói quen làm tới đâu tiêu hết tới đó, giờ các bạn đang hoang mang vì tiền sắp hết mà thói quen tiêu xài xa hoa vẫn không bỏ được
-sentence_10.wav
+wav7.wav
+Công ty cho đi đâu thì đi đó.Với thói quen làm tới đâu tiêu hết tới đó, giờ các bạn đang hoang mang vì tiền sắp hết mà thói quen tiêu xài xa hoa vẫn không bỏ được
+wav8.wav
 Tôi ở nhà, làm việc từ xa và không thấy sợ hãi gì vì vẫn còn quyển sổ tiết kiệm trong ngân hàng
-sentence_11.wav
-Sau trận đại dịch này, tôi nghĩ các bạn trẻ nên thay đổi lối sống, tập thói quen tích trữ, đừng sống hời hợt, chỉ biết hôm nay"
-sentence_12.wav
- Đồng quan điểm, bạn đọc Thùy linh chia sẻ câu chuyện của bản thân khi "sống khỏe" trong thời gian ở nhà tránh dịch nhờ thói quen tiết kiệm:  "Tôi cũng có tính tiết kiệm do ba mẹ tôi sống như vậy
-sentence_13.wav
+wav9.wav
+Sau trận đại dịch này, tôi nghĩ các bạn trẻ nên thay đổi lối sống, tập thói quen tích trữ, đừng sống hời hợt, chỉ biết hôm nay".Đồng quan điểm, bạn đọc Thùy linh chia sẻ câu chuyện của bản thân khi "sống khỏe" trong thời gian ở nhà tránh dịch nhờ thói quen tiết kiệm:"Tôi cũng có tính tiết kiệm do ba mẹ tôi sống như vậy
+wav10.wav
 Nếu trong người không có tiền để phòng xa là tôi cảm thấy bất an, lo sợ
-sentence_14.wav
+wav11.wav
 Tôi có một khoản tiền để cho bản thân "vay" khi cần
-sentence_15.wav
- Còn tôi thấy ba mẹ chồng làm bao nhiêu là xài hết, khi có công to việc lớn là chạy đi vay mượn, xin xỏ các chú, các bác
-sentence_16.wav
+wav12.wav
+Làm xong việc rồi là tôi lại "trả nợ" cho chính mình.Còn tôi thấy ba mẹ chồng làm bao nhiêu là xài hết, khi có công to việc lớn là chạy đi vay mượn, xin xỏ các chú, các bác
+wav13.wav
 Vậy nên chồng và các em của chồng tôi cũng vậy, có bao nhiêu tiền là mua sắm lung tung, đi du lịch khắp nơi
-sentence_17.wav
+wav14.wav
 Thời gian mới cưới, tôi hay bị mẹ chồng đòi tiền, rồi em chồng cũng mượn
-sentence_18.wav
+wav15.wav
 Lúc đó vợ chồng để tiền chung nên coi như tôi còng lưng cùng chồng cung phụng họ
-sentence_19.wav
-Sau một năm, tôi quyết định nói rõ với chồng rằng "tiền ai nấy cất, anh mỗi tháng nộp cho tôi một phần tiền, còn lại anh tự chi tiêu và cho gia đình anh tùy thích"
-sentence_20.wav
- Hiện giờ tôi đã mua được hai căn nhà, xe ôtô và có tài khoản tiết kiệm kha khá
-sentence_21.wav
-Mấy hôm nay, mẹ chồng bắt đầu dò hỏi xem tôi sống thế nào trong mùa dịch và bà than thở là hai người em của chồng đang bị nghỉ không lương mà tiền tiết kiệm thì không có nên không biết phải làm sao?"
-sentence_22.wav
- 'Tôi ở nhà' - những cách dùng thời gian hiệu quả Tôi biến mình thành một người lính chống 'giặc Covid-19' Tôi chấp nhận đóng cửa vì cộng đồng Cũng an tâm khi ở nhà tránh dịch với khoản tích trữ phòng thân, độc giả Thanh Hoang Van chia sẻ:  "Tôi thấy mình thật may mắn khi công việc vẫn không bị ảnh hưởng nhiều lắm và bản thân cũng có một chút tích trữ phòng thân
-sentence_23.wav
-Đúng là rất nhiều người thu nhập không đủ để dành tiết kiệm, nhưng cũng không ít người tiêu hoang đến giờ mới thấm đòn cảnh thất nghiệp: lúc có tiền thì ăn uống du lịch mua sắm quần áo, điện thoại xịn khoe khoang, giờ lại phải ngửa tay đi vay tiền"
-sentence_24.wav
- Khẳng định việc tiết kiệm phòng thân không hề khó thực hiện, bạn đọc Vinh trung ca nhấn mạnh:  "Tôi thấy nhiều người chưa có ý thức tiết kiệm những đồng tiền kiếm được
-sentence_25.wav
+wav16.wav
+Sau một năm, tôi quyết định nói rõ với chồng rằng "tiền ai nấy cất, anh mỗi tháng nộp cho tôi một phần tiền, còn lại anh tự chi tiêu và cho gia đình anh tùy thích".Hiện giờ tôi đã mua được hai căn nhà, xe ôtô và có tài khoản tiết kiệm kha khá
+wav17.wav
+Mấy hôm nay, mẹ chồng bắt đầu dò hỏi xem tôi sống thế nào trong mùa dịch và bà than thở là hai người em của chồng đang bị nghỉ không lương mà tiền tiết kiệm thì không có nên không biết phải làm sao?".'Tôi ở nhà' - những cách dùng thời gian hiệu quảTôi biến mình thành một người lính chống 'giặc Covid-19'Tôi chấp nhận đóng cửa vì cộng đồngCũng an tâm khi ở nhà tránh dịch với khoản tích trữ phòng thân, độc giả Thanh Hoang Van chia sẻ:"Tôi thấy mình thật may mắn khi công việc vẫn không bị ảnh hưởng nhiều lắm và bản thân cũng có một chút tích trữ phòng thân
+wav18.wav
+Đúng là rất nhiều người thu nhập không đủ để dành tiết kiệm, nhưng cũng không ít người tiêu hoang đến giờ mới thấm đòn cảnh thất nghiệp: lúc có tiền thì ăn uống du lịch mua sắm quần áo, điện thoại xịn khoe khoang, giờ lại phải ngửa tay đi vay tiền".Khẳng định việc tiết kiệm phòng thân không hề khó thực hiện, bạn đọc Vinh trung ca nhấn mạnh:"Tôi thấy nhiều người chưa có ý thức tiết kiệm những đồng tiền kiếm được
+wav19.wav
 Nếu làm được 10 phần thì cũng chỉ nên tiêu 7-8 phần và để ra 2-3 phần tiết kiệm phòng trừ lúc biến cố
-sentence_26.wav
+wav20.wav
 Thu nhập càng thấp thì càng phải ý thức được điều đó và nâng cao thu nhập lên chứ đừng nói lương thấp không đủ sống thì tiết kiệm kiểu gì? Nên có trách nhiệm cho bản thân trước khi muốn người khác thương cảm cho mình
-sentence_27.wav
+wav21.wav
 Hai vợ chồng em tôi ở quê lên thành phố lập nghiệp, từng ở nhà trọ giá rẻ, thu nhập chỉ khoảng 10-12 triệu đồng nhưng tháng nào cũng chỉ chi tiêu hết 7-8 triệu, còn lại gửi tiết kiệm, nên đừng ai nói thu nhập thấp là không tiết kiệm được".
-sentence_28.wav

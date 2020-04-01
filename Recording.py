@@ -16,7 +16,7 @@ def sync_record(filename, duration, sr, channels):
 #đọc file "news.txt"
 def readfile(news):
     f = open("./output/" + news + "/news.txt", "r", encoding="utf-8")
-    sentences = f.read().replace("\n", " ").split(". ") #xóa xuống dòng và tách câu
+    sentences = f.read().replace("\n", "").split(". ") #xóa xuống dòng và tách câu
     f.close()
     return sentences
 
@@ -47,11 +47,12 @@ def start_record():
             print('Record sentence: ' + sentence)
             filename = "./output/" + topic +"/wav" + str(i)
 
+            
+            w.write('\n'+"wav"+str(i)+ ".wav" )   #ghi tên file âm thanh
             w.write("\n"+sentence)  #ghi câu vào file
-            w.write('\n'+"sentence_"+str(i)+ ".wav" )   #ghi tên file âm thanh
 
             second = len(sentence) / 15 #thời gian tính theo độ dài chuỗi
-            print(str(second)+"s")
+            print("thoi gian ghi am: "+str(second)+"s")
 
             sync_record(filename, second , 22050, 1)    #ghi âm
             i+=1

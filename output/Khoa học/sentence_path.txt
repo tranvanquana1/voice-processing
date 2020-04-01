@@ -1,57 +1,33 @@
 https://vnexpress.net/vaccine/ncov-khong-the-sao-chep-trong-trung-ga-4076037.html
-nCoV không thể sao chép trong trứng gà Điều này có nghĩa vaccine phòng Covid-19 không thể sản xuất bằng phương pháp dựa trên trứng giống như các bệnh cúm thường, giới nghiên cứu cho biết
-sentence_1.wav
-Sản xuất vaccine dựa trên trứng là phương pháp phổ biến nhất trong những năm qua
-sentence_2.wav
-Ảnh: CNN
-sentence_3.wav
-Sản xuất vaccine dựa trên trứng là phương pháp phổ biến nhất trong những năm qua
-sentence_4.wav
-Ảnh: CNN
-sentence_5.wav
- Trong 80 năm qua, phần lớn vaccine trên thế giới được sản xuất bằng phương pháp dựa trên trứng gà
-sentence_6.wav
-Theo Trung tâm Kiểm soát và Phòng ngừa dịch bệnh (CDC), có tới 174,5 triệu liều vaccine cúm đã được phân phối trên toàn nước Mỹ trong mùa cúm năm nay, trong đó 82% sản xuất dựa trên trứng, điều đó có nghĩa 140 triệu quả trứng gà có thể đã được sử dụng
-sentence_7.wav
- Khi Covid-19 lan rộng, các nhà khoa học và chính phủ trên thế giới chạy đua để phát triển vaccine, nhưng trứng gà không có tác dụng trong trường này, theo John Nicholl, Giáo sư bệnh lý học tại Đại học Hongkong (HKU)
-sentence_8.wav
-Nguyên nhân là do sự khác biệt về một số đặc điểm như thụ thể, khiến nCoV không thể sao chép bên trong trứng giống như virus cúm thông thường
-sentence_9.wav
- Thậm chí trước khi Covid-19 bùng phát, các quan chức Mỹ đã thúc đẩy các lựa chọn thay thế trong những năm qua
-sentence_10.wav
+wav1.wav
+nCoV không thể sao chép trong trứng gàĐiều này có nghĩa vaccine phòng Covid-19 không thể sản xuất bằng phương pháp dựa trên trứng giống như các bệnh cúm thường, giới nghiên cứu cho biết.Sản xuất vaccine dựa trên trứng là phương pháp phổ biến nhất trong những năm qua
+wav2.wav
+Ảnh: CNN.Sản xuất vaccine dựa trên trứng là phương pháp phổ biến nhất trong những năm qua
+wav3.wav
+Ảnh: CNN.Trong 80 năm qua, phần lớn vaccine trên thế giới được sản xuất bằng phương pháp dựa trên trứng gà
+wav4.wav
+Theo Trung tâm Kiểm soát và Phòng ngừa dịch bệnh (CDC), có tới 174,5 triệu liều vaccine cúm đã được phân phối trên toàn nước Mỹ trong mùa cúm năm nay, trong đó 82% sản xuất dựa trên trứng, điều đó có nghĩa 140 triệu quả trứng gà có thể đã được sử dụng.Khi Covid-19 lan rộng, các nhà khoa học và chính phủ trên thế giới chạy đua để phát triển vaccine, nhưng trứng gà không có tác dụng trong trường này, theo John Nicholl, Giáo sư bệnh lý học tại Đại học Hongkong (HKU)
+wav5.wav
+Nguyên nhân là do sự khác biệt về một số đặc điểm như thụ thể, khiến nCoV không thể sao chép bên trong trứng giống như virus cúm thông thường.Thậm chí trước khi Covid-19 bùng phát, các quan chức Mỹ đã thúc đẩy các lựa chọn thay thế trong những năm qua
+wav6.wav
 Phương pháp sản xuất vaccine dựa trên trứng khá đơn giản nhưng cần rất nhiều thời gian, ít nhất là 6 tháng
-sentence_11.wav
+wav7.wav
 Trong thời gian này, dịch có thể đã lây lan ra toàn cầu
-sentence_12.wav
-Chưa kể virus được tiêm vào trong trứng có thể biến đổi, làm giảm hiệu quả của vaccine
-sentence_13.wav
- Virus được tiêm vào trứng gà để sản xuất vaccine cúm
-sentence_14.wav
-Ảnh: CNN
-sentence_15.wav
-Virus được tiêm vào trứng gà để sản xuất vaccine cúm
-sentence_16.wav
-Ảnh: CNN
-sentence_17.wav
- Một vấn đề khác là nguồn cung trứng dễ bị ảnh hưởng bởi dịch bệnh trên gia cầm
-sentence_18.wav
-"Ví dụ như đại dịch H5N1 có thể giết chết một số lượng lớn gà, dẫn đến thiếu trứng để sản xuất vaccine", Leo Poon, người đứng đầu Phòng thí nghiệm y tế công cộng tại HKU cho biết
-sentence_19.wav
- Theo Văn phòng Giải trình trách nhiệm Chính phủ Mỹ (GAO), có thể mất 12 - 18 tháng để thiết lập nguồn cung trứng đủ lớn trong cả trường hợp cúm mùa hoặc đại dịch cúm
-sentence_20.wav
-Nhưng với đại dịch lây lan nhanh như Covid-19, các nhà chức trách đơn giản là không muốn chờ đợi lâu
-sentence_21.wav
- Theo Tổ chức Y tế Thế giới (WHO), hơn 20 loại vaccine Covid-19 tiềm năng, sử dụng một loạt các công nghệ không dựa trên trứng gà, đang được phát triển
-sentence_22.wav
-Một trong số đó là vaccine mARN
-sentence_23.wav
- Phương pháp sản xuất vaccine mARN sử dụng các ARN thông tin để tạo ra hợp chất di truyền chính xác với protein của virus, nhờ đó có thể nhanh chóng tạo ra một lượng lớn kháng nguyên trong cơ thể người (kháng nguyên kích thích hệ miễn dịch tạo kháng thể để diệt virus)
-sentence_24.wav
-Toàn bộ quá trình chỉ kéo dài khoảng 6 tuần
-sentence_25.wav
- Trong khi đó, phương pháp sản xuất vaccine dựa trên trứng hoạt động bằng cách tiêm virus vào trong trứng gà đã được thụ tinh, nơi chúng sinh sản và nhân lên trong vài ngày
-sentence_26.wav
+wav8.wav
+Chưa kể virus được tiêm vào trong trứng có thể biến đổi, làm giảm hiệu quả của vaccine.Virus được tiêm vào trứng gà để sản xuất vaccine cúm
+wav9.wav
+Ảnh: CNN.Virus được tiêm vào trứng gà để sản xuất vaccine cúm
+wav10.wav
+Ảnh: CNN.Một vấn đề khác là nguồn cung trứng dễ bị ảnh hưởng bởi dịch bệnh trên gia cầm
+wav11.wav
+"Ví dụ như đại dịch H5N1 có thể giết chết một số lượng lớn gà, dẫn đến thiếu trứng để sản xuất vaccine", Leo Poon, người đứng đầu Phòng thí nghiệm y tế công cộng tại HKU cho biết.Theo Văn phòng Giải trình trách nhiệm Chính phủ Mỹ (GAO), có thể mất 12 - 18 tháng để thiết lập nguồn cung trứng đủ lớn trong cả trường hợp cúm mùa hoặc đại dịch cúm
+wav12.wav
+Nhưng với đại dịch lây lan nhanh như Covid-19, các nhà chức trách đơn giản là không muốn chờ đợi lâu.Theo Tổ chức Y tế Thế giới (WHO), hơn 20 loại vaccine Covid-19 tiềm năng, sử dụng một loạt các công nghệ không dựa trên trứng gà, đang được phát triển
+wav13.wav
+Một trong số đó là vaccine mARN.Phương pháp sản xuất vaccine mARN sử dụng các ARN thông tin để tạo ra hợp chất di truyền chính xác với protein của virus, nhờ đó có thể nhanh chóng tạo ra một lượng lớn kháng nguyên trong cơ thể người (kháng nguyên kích thích hệ miễn dịch tạo kháng thể để diệt virus)
+wav14.wav
+Toàn bộ quá trình chỉ kéo dài khoảng 6 tuần.Trong khi đó, phương pháp sản xuất vaccine dựa trên trứng hoạt động bằng cách tiêm virus vào trong trứng gà đã được thụ tinh, nơi chúng sinh sản và nhân lên trong vài ngày
+wav15.wav
 Các nhà khoa học sau đó sẽ thu thập chất lỏng chứa virus trong trứng để tinh chế và vô hiệu về mặt hóa học trước khi được đóng gói dưới dạng vaccine
-sentence_27.wav
+wav16.wav
 Quá trình sản xuất cần ít nhất nửa năm, theo CDC.
-sentence_28.wav

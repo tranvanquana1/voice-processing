@@ -1,49 +1,27 @@
 https://vnexpress.net/the-gioi/dan-vu-han-vui-buon-lan-lon-ve-lenh-phong-toa-4077566.html
-Dân Vũ Hán vui buồn lẫn lộn về lệnh phong tỏa Một số người Vũ Hán tự hào vì chính phủ quyết liệt áp lệnh phong tỏa, nhưng số khác than phiền khi kế sinh nhai bị ảnh hưởng
-sentence_1.wav
- Những hạn chế nghiêm ngặt nhất đã được chính phủ Trung Quốc áp đặt tại Vũ Hán, thủ phủ tỉnh Hồ Bắc, nơi Covid-19 bùng phát cuối năm ngoái
-sentence_2.wav
-Thành phố 11 triệu dân này chiếm khoảng 60% số ca nhiễm bệnh tại Trung Quốc, vùng dịch lớn thứ tư thế giới, với hơn 81.000 trường hợp dương tính nCoV
-sentence_3.wav
- Khu chợ hải sản Hoa Nam, được cho là nơi khởi phát nCoV, đã bị đóng cửa và một trung tâm bán buôn trái cây liền kề cũng phải ngừng hoạt động, khiến số hoa quả trị giá hơn 100.000 nhân dân tệ (khoảng 14.000 USD) bị thối rữa trên kệ
-sentence_4.wav
- Một phụ nữ bán trái cây họ Fang cho biết quyết định phong tỏa thành phố đã hủy hoại kế sinh nhai của cô
-sentence_5.wav
+wav1.wav
+Dân Vũ Hán vui buồn lẫn lộn về lệnh phong tỏaMột số người Vũ Hán tự hào vì chính phủ quyết liệt áp lệnh phong tỏa, nhưng số khác than phiền khi kế sinh nhai bị ảnh hưởng.Những hạn chế nghiêm ngặt nhất đã được chính phủ Trung Quốc áp đặt tại Vũ Hán, thủ phủ tỉnh Hồ Bắc, nơi Covid-19 bùng phát cuối năm ngoái
+wav2.wav
+Thành phố 11 triệu dân này chiếm khoảng 60% số ca nhiễm bệnh tại Trung Quốc, vùng dịch lớn thứ tư thế giới, với hơn 81.000 trường hợp dương tính nCoV.Khu chợ hải sản Hoa Nam, được cho là nơi khởi phát nCoV, đã bị đóng cửa và một trung tâm bán buôn trái cây liền kề cũng phải ngừng hoạt động, khiến số hoa quả trị giá hơn 100.000 nhân dân tệ (khoảng 14.000 USD) bị thối rữa trên kệ.Một phụ nữ bán trái cây họ Fang cho biết quyết định phong tỏa thành phố đã hủy hoại kế sinh nhai của cô
+wav3.wav
 "Đương nhiên tôi cũng sợ chứ", Fang nói, chỉ vào hai chiếc khẩu trang cô đang đeo chồng lên nhau
-sentence_6.wav
-"Tuy nhiên, tôi không kiếm được tiền suốt ba tháng qua"
-sentence_7.wav
- Cư dân Vũ Hán có thái độ không đồng nhất, khi một số người thể hiện niềm tự hào với chính phủ vì đã quyết liệt dập dịch, nhưng số khác lại cho rằng sự hỗ trợ họ nhận được không thể bù đắp cho tổn thất từ lệnh phong tỏa
-sentence_8.wav
- Người dân đeo khẩu trang và giữ khoảng cách cách biệt xã hội tại một ngân hàng ở Vũ Hán, tỉnh Hồ Bắc, Trung Quốc hôm 31/3
-sentence_9.wav
+wav4.wav
+"Tuy nhiên, tôi không kiếm được tiền suốt ba tháng qua".Cư dân Vũ Hán có thái độ không đồng nhất, khi một số người thể hiện niềm tự hào với chính phủ vì đã quyết liệt dập dịch, nhưng số khác lại cho rằng sự hỗ trợ họ nhận được không thể bù đắp cho tổn thất từ lệnh phong tỏa.Người dân đeo khẩu trang và giữ khoảng cách cách biệt xã hội tại một ngân hàng ở Vũ Hán, tỉnh Hồ Bắc, Trung Quốc hôm 31/3
+wav5.wav
+Ảnh: Reuters.Người dân đeo khẩu trang và giữ "cách biệt cộng đồng" tại một ngân hàng ở Vũ Hán, tỉnh Hồ Bắc, Trung Quốc hôm 31/3
+wav6.wav
 Ảnh: Reuters
-sentence_10.wav
-Người dân đeo khẩu trang và giữ "cách biệt cộng đồng" tại một ngân hàng ở Vũ Hán, tỉnh Hồ Bắc, Trung Quốc hôm 31/3
-sentence_11.wav
-Ảnh: Reuters
-sentence_12.wav
-  Một số công ty đã nối lại hoạt động và thành phố Vũ Hán sẽ bắt đầu cho phép mọi người rời đi từ ngày 8/4
-sentence_13.wav
-Chính phủ Trung Quốc đã đưa ra nhiều biện pháp để giảm bớt tác động với nền kinh tế cũng như cam kết sẽ giúp Vũ Hán "lấy lại phong độ"
-sentence_14.wav
- Hu Yanfang, một cư dân tại thành phố Vũ Hán, có cách nhìn tích cực hơn về lệnh phong tỏa
-sentence_15.wav
-Khu dân cư cô sống gần đây đã được nới lỏng các hạn chế và cô lạc quan rằng chính phủ đã kiểm soát được cuộc khủng hoảng dịch bệnh
-sentence_16.wav
- "Mọi thứ bây giờ tốt hơn nhiều", Hu nói, thêm rằng cô rất biết ơn chính phủ vì đã gửi nhiều đồ bảo hộ như khẩu trang cho người dân thành phố
-sentence_17.wav
- "Tôi cảm thấy đất nước thật mạnh, cứ nhìn vào các nước ở châu Âu mà xem", Hu cho biết, đề cập tới số ca nhiễm và số người tử vong vì nCoV liên tục tăng tại Italy, Tây Ban Nha
-sentence_18.wav
- Cô Hu và Yu Tianhong, một cư dân khác tại Vũ Hán, có cùng quan điểm tích cực về lệnh phong tỏa thành phố
-sentence_19.wav
+wav7.wav
+Một số công ty đã nối lại hoạt động và thành phố Vũ Hán sẽ bắt đầu cho phép mọi người rời đi từ ngày 8/4
+wav8.wav
+Chính phủ Trung Quốc đã đưa ra nhiều biện pháp để giảm bớt tác động với nền kinh tế cũng như cam kết sẽ giúp Vũ Hán "lấy lại phong độ".Hu Yanfang, một cư dân tại thành phố Vũ Hán, có cách nhìn tích cực hơn về lệnh phong tỏa
+wav9.wav
+Khu dân cư cô sống gần đây đã được nới lỏng các hạn chế và cô lạc quan rằng chính phủ đã kiểm soát được cuộc khủng hoảng dịch bệnh."Mọi thứ bây giờ tốt hơn nhiều", Hu nói, thêm rằng cô rất biết ơn chính phủ vì đã gửi nhiều đồ bảo hộ như khẩu trang cho người dân thành phố."Tôi cảm thấy đất nước thật mạnh, cứ nhìn vào các nước ở châu Âu mà xem", Hu cho biết, đề cập tới số ca nhiễm và số người tử vong vì nCoV liên tục tăng tại Italy, Tây Ban Nha.Cô Hu và Yu Tianhong, một cư dân khác tại Vũ Hán, có cùng quan điểm tích cực về lệnh phong tỏa thành phố
+wav10.wav
 "Chính phủ đã giúp chúng tôi có những thứ như thế này", cô nói khi đợi những miếng sườn heo được chở đến
-sentence_20.wav
-Mặt hàng này được bán cho cư dân tại đây với giá thấp hơn một nửa so với giá bình thường
-sentence_21.wav
- "Điều này cho thấy chính phủ đang hỗ trợ và yêu thương những người dân phải ở nhà như thế nào
-sentence_22.wav
+wav11.wav
+Mặt hàng này được bán cho cư dân tại đây với giá thấp hơn một nửa so với giá bình thường."Điều này cho thấy chính phủ đang hỗ trợ và yêu thương những người dân phải ở nhà như thế nào
+wav12.wav
 Nó không chỉ là vấn đề về thịt và tiền
-sentence_23.wav
+wav13.wav
 Điều này khiến chúng tôi cảm thấy như có ai đó quan tâm tới mình", Yu khẳng định.
-sentence_24.wav

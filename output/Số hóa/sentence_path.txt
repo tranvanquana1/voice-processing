@@ -1,51 +1,35 @@
 https://vnexpress.net/so-hoa/dich-vu-cho-thue-may-tinh-gia-10-nghin-dong-4077151.html
-Dịch vụ cho thuê máy tính giá 10 nghìn đồng Nhiều cửa hàng máy tính, quán game phải đóng cửa, chuyển sang cho thuê thiết bị với giá từ 10 nghìn đồng mỗi ngày, thu hút lượng khách lớn
-sentence_1.wav
- Vốn là điểm chuyên cung cấp thiết bị cho các quán game, nhưng khoảng một tháng nay, cửa hàng máy tính của anh Thái Sơn (Hoàng Mai, Hà Nội) vắng khách do ảnh hưởng của Covid-19
-sentence_2.wav
+wav1.wav
+Dịch vụ cho thuê máy tính giá 10 nghìn đồngNhiều cửa hàng máy tính, quán game phải đóng cửa, chuyển sang cho thuê thiết bị với giá từ 10 nghìn đồng mỗi ngày, thu hút lượng khách lớn.Vốn là điểm chuyên cung cấp thiết bị cho các quán game, nhưng khoảng một tháng nay, cửa hàng máy tính của anh Thái Sơn (Hoàng Mai, Hà Nội) vắng khách do ảnh hưởng của Covid-19
+wav2.wav
 Gần đây, anh thấy nhiều người có nhu cầu sắm thiết bị để làm việc và chơi game tại nhà nhưng không đủ kinh phí, anh thử triển khai dịch vụ cho thuê máy tính, không ngờ nhận được sự quan tâm lớn
-sentence_3.wav
-  "Ban đầu tôi dự tính sẽ cho thuê khoảng 20 bộ, nhưng sau một ngày triển khai, khách đã đặt gần hết
-sentence_4.wav
+wav3.wav
+"Ban đầu tôi dự tính sẽ cho thuê khoảng 20 bộ, nhưng sau một ngày triển khai, khách đã đặt gần hết
+wav4.wav
 Hiện tại tôi phải chuẩn bị linh kiện để lắp thêm", anh Sơn nói
-sentence_5.wav
-  Theo nhiều người, sự hút khách của dịch vụ này đến từ chi phíkhá rẻ
-sentence_6.wav
-Thay vì phải mua một bộ máy tính giá hàng chục triệu đồng, người thuê chỉ cần bỏ ra từ 10 đến 20 nghìn đồng mỗi ngày là có một bộ máy cấu hình tốt
-sentence_7.wav
- Nhiều cửa hàng đã xây dựng các mức cấu hình máy tính khác nhau để đáp ứng nhu cầu của khách hàng
-sentence_8.wav
+wav5.wav
+Theo nhiều người, sự hút khách của dịch vụ này đến từ chi phíkhá rẻ
+wav6.wav
+Thay vì phải mua một bộ máy tính giá hàng chục triệu đồng, người thuê chỉ cần bỏ ra từ 10 đến 20 nghìn đồng mỗi ngày là có một bộ máy cấu hình tốt.Nhiều cửa hàng đã xây dựng các mức cấu hình máy tính khác nhau để đáp ứng nhu cầu của khách hàng
+wav7.wav
 Chẳng hạn, một bộ máy tính đủ để chơi game Liên Minh Huyền Thoại với RAM 4 GB, ổ cứng SSD 60 GB, card đồ hoạ 1 GB, có giá thuê khoảng 15 nghìn đồng, nếu không thuê màn hình có thể được giảm 5 nghìn đồng
-sentence_9.wav
-Với nhu cầu cao hơn, như chơi game FiFa Online, Liên Minh Huyền Thoại với thiết lập cao nhất, có thể chọn bộ máy RAM 8 GB, card đồ hoạ 2 GB..., giá thuê 20 - 30 nghìn đồng mỗi ngày
-sentence_10.wav
- Tuấn Hùng, một người làm nghề xe ôm công nghệ tại Hà Nội, vừa thuê bộ máy tính với giá 20 nghìn đồng mỗi ngày
-sentence_11.wav
-Theo Hùng, dịch bệnh phức tạp nên anh dành nhiều thời gian ở nhà hơn, vì vậy, anh cần một chiếc máy tính để giải trí cũng nhưđọc tin tức
-sentence_12.wav
- "Chưa biết dịch sẽ kéo dài đến bao giờ, nhưng việc bỏ tiền ra mua một bộ máy tính mới với tôi hơi ‘quá sức', chưa kể sẽ lãng phí nếu sau này đi làm trở lại", Hùng nói
-sentence_13.wav
-Sovới việc ra quán game, "thuê máy tính ban đầu sẽ tốn hơn, do phải có một khoản đặt cọc cho cửa hàng, nhưng bù lại, mình được sử dụng thoải mái, chi phí sử dụng hàng ngày rẻ", anh nhận xét
-sentence_14.wav
- Nhu cầu thuê và cho thuê máy tính tăng cao trong bối cảnhCovid-19 diễn biến phức tạp, khiến nhiều người phải làm việc tại nhà
-sentence_15.wav
+wav8.wav
+Với nhu cầu cao hơn, như chơi game FiFa Online, Liên Minh Huyền Thoại với thiết lập cao nhất, có thể chọn bộ máy RAM 8 GB, card đồ hoạ 2 GB..., giá thuê 20 - 30 nghìn đồng mỗi ngày.Tuấn Hùng, một người làm nghề xe ôm công nghệ tại Hà Nội, vừa thuê bộ máy tính với giá 20 nghìn đồng mỗi ngày
+wav9.wav
+Theo Hùng, dịch bệnh phức tạp nên anh dành nhiều thời gian ở nhà hơn, vì vậy, anh cần một chiếc máy tính để giải trí cũng nhưđọc tin tức."Chưa biết dịch sẽ kéo dài đến bao giờ, nhưng việc bỏ tiền ra mua một bộ máy tính mới với tôi hơi ‘quá sức', chưa kể sẽ lãng phí nếu sau này đi làm trở lại", Hùng nói
+wav10.wav
+Sovới việc ra quán game, "thuê máy tính ban đầu sẽ tốn hơn, do phải có một khoản đặt cọc cho cửa hàng, nhưng bù lại, mình được sử dụng thoải mái, chi phí sử dụng hàng ngày rẻ", anh nhận xét.Nhu cầu thuê và cho thuê máy tính tăng cao trong bối cảnhCovid-19 diễn biến phức tạp, khiến nhiều người phải làm việc tại nhà
+wav11.wav
 Trên các hội nhóm chuyên mua bán trao đổi thiết bị, các chủ đề liên quan đến việc cho thuê máy tính nhận đượchàng trăm lượt bình luận
-sentence_16.wav
+wav12.wav
 Một số đơn vị chuyên cho thuê máy tính số lượng lớn để phục vụ sự kiện, hội nghị, nay cũng chuyển sang cho thuê với khách hàng cá nhân
-sentence_17.wav
-Giá thuê của máy tính để bàn, laptop dao động từ 10 nghìn đến hơn 100 nghìn đồng mỗi ngày, tuỳ cấu hình hoặcgiá của sản phẩm trên thị trường
-sentence_18.wav
- Tuy nhiên, dịch vụ cho thuê máy tính cũng tiềm ẩn nhiều rủi ro cho cả người cho thuê và người đi thuê
-sentence_19.wav
- Theo một chủ cửa hàng máy tính, ngoài những hỏng hóc có thể xảy ra trong quá trình vận chuyển và sử dụng, chiếc máy tính cho thuê cũng sẽ "biến mất" nếu gặp phải người thuê có ý đồ xấu
-sentence_20.wav
+wav13.wav
+Giá thuê của máy tính để bàn, laptop dao động từ 10 nghìn đến hơn 100 nghìn đồng mỗi ngày, tuỳ cấu hình hoặcgiá của sản phẩm trên thị trường.Tuy nhiên, dịch vụ cho thuê máy tính cũng tiềm ẩn nhiều rủi ro cho cả người cho thuê và người đi thuê.Theo một chủ cửa hàng máy tính, ngoài những hỏng hóc có thể xảy ra trong quá trình vận chuyển và sử dụng, chiếc máy tính cho thuê cũng sẽ "biến mất" nếu gặp phải người thuê có ý đồ xấu
+wav14.wav
 Giải pháp được cửa hàng đưa ra là yêu cầu đặt cọc khoảng 50 đến70% giá trị của máy, kèm theo ảnh chụp giấy tờ tuỳ thân
-sentence_21.wav
-Một số nơi áp dụng hình thức giao máy đến tận nhà người dùng, hoặc cho thuê tối đa một tháng để giảm thiểu rủi ro
-sentence_22.wav
- Ngược lại, với người thuê, nhiều người e ngại việc phải bỏ ra số tiền đặt cọc từ 3 đến 5 triệu đồng cho cửa hàng
-sentence_23.wav
+wav15.wav
+Một số nơi áp dụng hình thức giao máy đến tận nhà người dùng, hoặc cho thuê tối đa một tháng để giảm thiểu rủi ro.Ngược lại, với người thuê, nhiều người e ngại việc phải bỏ ra số tiền đặt cọc từ 3 đến 5 triệu đồng cho cửa hàng
+wav16.wav
 Ngoài ra, máy tính đi thuê thường có các linh kiện cũ và qua tay nhiều người, nguy cơ hỏng hóc trong quá trình sử dụng rất cao
-sentence_24.wav
-  Dẫu vậy, việc thuê và cho thuê máy tính vẫn là giải pháp được nhiều người lựa chọn lúc nàyvì người thuê không phải bỏ nhiều tiền mà vẫn có máy tính sử dụng trong thời điểm dịch bệnh, cửa hàng lại giảm lãng phí các sản phẩm tồn kho.
-sentence_25.wav
+wav17.wav
+Dẫu vậy, việc thuê và cho thuê máy tính vẫn là giải pháp được nhiều người lựa chọn lúc nàyvì người thuê không phải bỏ nhiều tiền mà vẫn có máy tính sử dụng trong thời điểm dịch bệnh, cửa hàng lại giảm lãng phí các sản phẩm tồn kho.
